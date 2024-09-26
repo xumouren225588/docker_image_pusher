@@ -1,1 +1,1 @@
-oraclejdk:latest
+openjdk:latest
