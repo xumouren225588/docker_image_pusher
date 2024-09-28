@@ -1,1 +1,1 @@
-sickcodes/docker-osx:monterey
+registry.cn-hangzhou.aliyuncs.com/shrimp-images/docker-osx:ventura
